@@ -1,0 +1,30 @@
+E:\Descargas\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Descargas\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Descargas\Tp_Muestra\Entidades\bin\Debug\Entidades.dll
+E:\Descargas\Tp_Muestra\Entidades\bin\Debug\Entidades.pdb
+E:\Descargas\Tp_Muestra\Entidades\obj\Debug\Entidades.dll
+E:\Descargas\Tp_Muestra\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Entidades\bin\Debug\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Entidades\bin\Debug\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Entidades\bin\Debug\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Entidades\obj\Debug\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Entidades\obj\Debug\Entidades.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Entidades\bin\Debug\Entidades.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Entidades\bin\Debug\Entidades.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Entidades\obj\Debug\Entidades.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Entidades\obj\Debug\Entidades.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Entidades\bin\Debug\Entidades.dll
+C:\Users\admin\Desktop\Tp_Muestra\Entidades\bin\Debug\Entidades.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.dll
+C:\Users\admin\Desktop\Tp_Muestra\Entidades\obj\Debug\Entidades.pdb

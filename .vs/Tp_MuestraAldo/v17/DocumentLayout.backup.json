@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\mostrarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\mostrarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\mostrarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\mostrarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8303B6-33F6-44D0-94FF-F1DE963FD321}|Dao\\Dao.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\dao\\datosmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8303B6-33F6-44D0-94FF-F1DE963FD321}|Dao\\Dao.csproj|solutionrelative:dao\\datosmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5FBE81-B154-404F-9D57-3FBF4AD7AE1A}|Negocio\\Negocio.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5FBE81-B154-404F-9D57-3FBF4AD7AE1A}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\agregarturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\agregarturnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\mostrarpacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\mostrarpacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5FBE81-B154-404F-9D57-3FBF4AD7AE1A}|Negocio\\Negocio.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\negocio\\negociopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5FBE81-B154-404F-9D57-3FBF4AD7AE1A}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8303B6-33F6-44D0-94FF-F1DE963FD321}|Dao\\Dao.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\dao\\datospaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8303B6-33F6-44D0-94FF-F1DE963FD321}|Dao\\Dao.csproj|solutionrelative:dao\\datospaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\modificarusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\modificarusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\modificarpacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarpacientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\modificarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\modificarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\gonza\\downloads\\tp_muestraaldo\\tp_muestra\\tp_muestra\\modificarpacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarpacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosMedico.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Dao\\DatosMedico.cs",
+              "RelativeDocumentMoniker": "Dao\\DatosMedico.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Dao\\DatosMedico.cs",
+              "RelativeToolTip": "Dao\\DatosMedico.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:48:38.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegocioMedico.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Negocio\\NegocioMedico.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioMedico.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Negocio\\NegocioMedico.cs",
+              "RelativeToolTip": "Negocio\\NegocioMedico.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAkwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:47:59.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MostrarMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\MostrarMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\MostrarMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\MostrarMedicos.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\MostrarMedicos.aspx.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAewE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:45:47.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MostrarMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\MostrarMedicos.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\MostrarMedicos.aspx",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\MostrarMedicos.aspx",
+              "RelativeToolTip": "Tp_Muestra\\MostrarMedicos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:45:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MostrarPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\MostrarPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\MostrarPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\MostrarPacientes.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\MostrarPacientes.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIA2wE4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:38:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarTurnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\AgregarTurnos.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\AgregarTurnos.aspx.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\AgregarTurnos.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\AgregarTurnos.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:27:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NegocioPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Negocio\\NegocioPaciente.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioPaciente.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Negocio\\NegocioPaciente.cs",
+              "RelativeToolTip": "Negocio\\NegocioPaciente.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAD4v2gAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:27:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatosPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Dao\\DatosPaciente.cs",
+              "RelativeDocumentMoniker": "Dao\\DatosPaciente.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Dao\\DatosPaciente.cs",
+              "RelativeToolTip": "Dao\\DatosPaciente.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwIIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:27:25.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\Inicio.aspx",
+              "RelativeToolTip": "Tp_Muestra\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:27:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModificarUsuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarUsuarios.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarUsuarios.aspx.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarUsuarios.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\ModificarUsuarios.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:26:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModificarUsuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarUsuarios.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarUsuarios.aspx",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarUsuarios.aspx",
+              "RelativeToolTip": "Tp_Muestra\\ModificarUsuarios.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:25:26.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModificarPacientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarPacientes.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarPacientes.aspx.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarPacientes.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\ModificarPacientes.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:24:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModificarPacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarPacientes.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarPacientes.aspx",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarPacientes.aspx",
+              "RelativeToolTip": "Tp_Muestra\\ModificarPacientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:24:32.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModificarMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:25.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModificarMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarMedicos.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarMedicos.aspx",
+              "ToolTip": "C:\\Users\\gonza\\Downloads\\Tp_MuestraAldo\\Tp_Muestra\\Tp_Muestra\\ModificarMedicos.aspx",
+              "RelativeToolTip": "Tp_Muestra\\ModificarMedicos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:22:21.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

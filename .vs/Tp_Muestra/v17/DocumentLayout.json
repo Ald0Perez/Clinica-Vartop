@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\windows\\desktop\\tp prog 3\\tp_muestra\\modificarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarmedicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\windows\\desktop\\tp prog 3\\tp_muestra\\modificarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\modificarmedicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|c:\\users\\windows\\desktop\\tp prog 3\\tp_muestra\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7304119-C046-450B-8AE4-AA7649DD8125}|Tp_Muestra\\Vistas.csproj|solutionrelative:tp_muestra\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8303B6-33F6-44D0-94FF-F1DE963FD321}|Dao\\Dao.csproj|c:\\users\\windows\\desktop\\tp prog 3\\dao\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8303B6-33F6-44D0-94FF-F1DE963FD321}|Dao\\Dao.csproj|solutionrelative:dao\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5FBE81-B154-404F-9D57-3FBF4AD7AE1A}|Negocio\\Negocio.csproj|c:\\users\\windows\\desktop\\tp prog 3\\negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5FBE81-B154-404F-9D57-3FBF4AD7AE1A}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarMedicos.aspx",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Tp_Muestra\\ModificarMedicos.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarMedicos.aspx",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Tp_Muestra\\ModificarMedicos.aspx",
+              "RelativeToolTip": "Tp_Muestra\\ModificarMedicos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T22:21:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModificarMedicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "RelativeDocumentMoniker": "Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "RelativeToolTip": "Tp_Muestra\\ModificarMedicos.aspx.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAwKEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:21:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Dao\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Dao\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Dao\\AccesoDatos.cs",
+              "RelativeToolTip": "Dao\\AccesoDatos.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:20:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegocioMedico.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Negocio\\NegocioMedico.cs",
+              "RelativeDocumentMoniker": "Negocio\\NegocioMedico.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Negocio\\NegocioMedico.cs",
+              "RelativeToolTip": "Negocio\\NegocioMedico.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAlwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:20:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Tp_Muestra\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Tp_Muestra\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\TP PROG 3\\Tp_Muestra\\Inicio.aspx",
+              "RelativeToolTip": "Tp_Muestra\\Inicio.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-28T14:20:40.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

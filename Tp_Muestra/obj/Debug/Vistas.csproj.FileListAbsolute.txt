@@ -1,0 +1,975 @@
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Descargas\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+E:\Descargas\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+E:\Descargas\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+E:\Descargas\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+E:\Descargas\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+E:\Descargas\a\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Tp_Muestra.dll.config
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Tp_Muestra.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Tp_Muestra.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\csc.exe
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\csc.exe.config
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\csc.rsp
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\csi.exe
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\csi.exe.config
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\csi.rsp
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.AppContext.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Console.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\vbc.exe
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\vbc.exe.config
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\vbc.rsp
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Entidades.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Negocio.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Dao.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Entidades.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Negocio.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\bin\Dao.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\admin\Desktop\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\Demian\Desktop\Nueva carpeta (7)\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Entidades.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Negocio.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Dao.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Entidades.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Negocio.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\bin\Dao.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Tp_Muestra\obj\Debug\Tp_Muestra.pdb
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Tp_Muestra.dll.config
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Tp_Muestra.pdb
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\csc.exe
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\csc.exe.config
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\csc.rsp
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\csi.exe
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\csi.exe.config
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\csi.rsp
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.AppContext.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Console.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.IO.Compression.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Net.Http.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.ValueTuple.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\vbc.exe
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\vbc.exe.config
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\vbc.rsp
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\VBCSCompiler.exe
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Entidades.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Negocio.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Dao.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Entidades.pdb
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Negocio.pdb
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\bin\Dao.pdb
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\obj\Debug\Tp_Muestra.dll
+C:\Users\WINDOWS\Desktop\TP PROG 3\Tp_Muestra\obj\Debug\Tp_Muestra.pdb

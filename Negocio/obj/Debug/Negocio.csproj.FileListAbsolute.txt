@@ -1,0 +1,132 @@
+E:\Descargas\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Descargas\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Descargas\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+E:\Descargas\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+E:\Descargas\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+E:\Descargas\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+E:\Descargas\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+E:\Descargas\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+E:\Descargas\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Descargas\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+E:\Descargas\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\WINDOWS\Desktop\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+E:\Descargas\a\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+E:\Descargas\a\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+E:\Descargas\a\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+E:\Descargas\a\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+E:\Descargas\a\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+E:\Descargas\a\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+E:\Descargas\a\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Descargas\a\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Descargas\a\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Descargas\a\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+E:\Descargas\a\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\bin\Debug\Negocio.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\bin\Debug\Negocio.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\bin\Debug\Dao.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\bin\Debug\Entidades.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\bin\Debug\Dao.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\bin\Debug\Entidades.pdb
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\obj\Debug\Negocio.dll
+E:\Descargas\FUSION TP\Tp_Muestra_Medico\Negocio\obj\Debug\Negocio.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\admin\Desktop\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gonza\Downloads\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\Demian\Desktop\aa\Tp_Muestra\Tp_MuestraAldo\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\bin\Debug\Negocio.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\bin\Debug\Negocio.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\bin\Debug\Dao.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\bin\Debug\Entidades.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\bin\Debug\Dao.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\bin\Debug\Entidades.pdb
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\obj\Debug\Negocio.dll
+C:\Users\admin\Desktop\Nueva carpeta (2)\Tp_Muestra\Negocio\obj\Debug\Negocio.pdb

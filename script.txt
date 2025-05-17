@@ -1,0 +1,552 @@
+USE [master]
+GO
+/****** Object:  Database [Tp_Final_Grupo10]    Script Date: 17/05/2025 19:44:50 ******/
+CREATE DATABASE [Tp_Final_Grupo10]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'Tp_Final_Grupo10', FILENAME = N'C:\Tp_Final_Grupo_N10\Tp_Final_Grupo10.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'Tp_Final_Grupo10_log', FILENAME = N'C:\Tp_Final_Grupo_N10\Tp_Final_Grupo10_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT, LEDGER = OFF
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET COMPATIBILITY_LEVEL = 160
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [Tp_Final_Grupo10].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET  MULTI_USER 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET QUERY_STORE = ON
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET QUERY_STORE (OPERATION_MODE = READ_WRITE, CLEANUP_POLICY = (STALE_QUERY_THRESHOLD_DAYS = 30), DATA_FLUSH_INTERVAL_SECONDS = 900, INTERVAL_LENGTH_MINUTES = 60, MAX_STORAGE_SIZE_MB = 1000, QUERY_CAPTURE_MODE = AUTO, SIZE_BASED_CLEANUP_MODE = AUTO, MAX_PLANS_PER_QUERY = 200, WAIT_STATS_CAPTURE_MODE = ON)
+GO
+USE [Tp_Final_Grupo10]
+GO
+/****** Object:  Table [dbo].[Especialidad]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Especialidad](
+	[IdEspecialidad] [int] NOT NULL,
+	[NombreEspecialidad_Es] [varchar](20) NULL,
+ CONSTRAINT [PK_Especialidad] PRIMARY KEY CLUSTERED 
+(
+	[IdEspecialidad] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Localidad]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Localidad](
+	[IdLocalidad_Lo] [int] NOT NULL,
+	[IdProvincia_Lo] [int] NOT NULL,
+	[NombreLocalidad_Lo] [varchar](40) NOT NULL,
+ CONSTRAINT [PK_Localidad_1] PRIMARY KEY CLUSTERED 
+(
+	[IdLocalidad_Lo] ASC,
+	[IdProvincia_Lo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Medicos]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Medicos](
+	[LegajoMedico] [char](4) NOT NULL,
+	[Nombre_Me] [varchar](20) NOT NULL,
+	[Apellido_Me] [varchar](20) NOT NULL,
+	[Dni_Me] [char](8) NOT NULL,
+	[Sexo_Me] [varchar](20) NOT NULL,
+	[Nacionalidad_Me] [varchar](20) NOT NULL,
+	[FechaNacimiento_Me] [date] NOT NULL,
+	[Direccion_Me] [varchar](20) NOT NULL,
+	[Localidad_Me] [int] NOT NULL,
+	[Provincia_Me] [int] NOT NULL,
+	[CorreoElectronico_Me] [varchar](40) NULL,
+	[Telefono_Me] [varchar](20) NOT NULL,
+	[Especialidad_Me] [int] NOT NULL,
+	[Lunes_Me] [bit] NULL,
+	[Martes_Me] [bit] NULL,
+	[Miercoles_Me] [bit] NULL,
+	[Jueves_Me] [bit] NULL,
+	[Viernes_Me] [bit] NULL,
+	[Sabado_Me] [bit] NULL,
+	[Domingo_Me] [bit] NULL,
+	[HorarioApertura_Me] [time](4) NOT NULL,
+	[HorarioCierre_Me] [time](4) NOT NULL,
+	[Estado_Me] [bit] NOT NULL,
+ CONSTRAINT [PK_Medico] PRIMARY KEY CLUSTERED 
+(
+	[LegajoMedico] ASC,
+	[Especialidad_Me] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Paciente]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Paciente](
+	[Dni_Pa] [char](8) NOT NULL,
+	[Nombre_Pa] [varchar](20) NULL,
+	[Apellido_Pa] [varchar](20) NULL,
+	[Sexo_Pa] [varchar](20) NULL,
+	[Nacionalidad_Pa] [varchar](20) NULL,
+	[Localidad_Pa] [int] NULL,
+	[Provincia_Pa] [int] NULL,
+	[FechaNacimiento_Pa] [varchar](20) NULL,
+	[Direccion_Pa] [varchar](20) NULL,
+	[CorreoElectronico_Pa] [varchar](40) NULL,
+	[Telefono_Pa] [varchar](11) NULL,
+	[Estado_Pa] [bit] NULL,
+ CONSTRAINT [PK_Paciente] PRIMARY KEY CLUSTERED 
+(
+	[Dni_Pa] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Provincias]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Provincias](
+	[IdProvincia_Pr] [int] NOT NULL,
+	[NombreProvincia_Pr] [varchar](20) NULL,
+ CONSTRAINT [PK_Provincias] PRIMARY KEY CLUSTERED 
+(
+	[IdProvincia_Pr] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Turnos]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Turnos](
+	[IdTurno] [int] IDENTITY(1,1) NOT NULL,
+	[LegajoMedico_Tr] [char](4) NOT NULL,
+	[DniPaciente_Tr] [char](8) NOT NULL,
+	[Especialidad] [int] NOT NULL,
+	[Fecha] [date] NULL,
+	[Horario] [time](4) NULL,
+	[Descripcion] [text] NULL,
+	[Asistencia] [bit] NULL,
+ CONSTRAINT [PK_Turnos] PRIMARY KEY CLUSTERED 
+(
+	[IdTurno] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Usuarios]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Usuarios](
+	[Nombre] [varchar](20) NOT NULL,
+	[Contraseña] [varchar](20) NOT NULL,
+	[Legajo] [char](4) NOT NULL,
+ CONSTRAINT [PK_Usuarios_1] PRIMARY KEY CLUSTERED 
+(
+	[Legajo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Localidad]  WITH CHECK ADD  CONSTRAINT [FK_Localidad_Provincias1] FOREIGN KEY([IdProvincia_Lo])
+REFERENCES [dbo].[Provincias] ([IdProvincia_Pr])
+GO
+ALTER TABLE [dbo].[Localidad] CHECK CONSTRAINT [FK_Localidad_Provincias1]
+GO
+ALTER TABLE [dbo].[Medicos]  WITH CHECK ADD  CONSTRAINT [FK_Medicos_Especialidad] FOREIGN KEY([Especialidad_Me])
+REFERENCES [dbo].[Especialidad] ([IdEspecialidad])
+GO
+ALTER TABLE [dbo].[Medicos] CHECK CONSTRAINT [FK_Medicos_Especialidad]
+GO
+ALTER TABLE [dbo].[Medicos]  WITH CHECK ADD  CONSTRAINT [FK_Medicos_Localidad1] FOREIGN KEY([Localidad_Me], [Provincia_Me])
+REFERENCES [dbo].[Localidad] ([IdLocalidad_Lo], [IdProvincia_Lo])
+GO
+ALTER TABLE [dbo].[Medicos] CHECK CONSTRAINT [FK_Medicos_Localidad1]
+GO
+ALTER TABLE [dbo].[Turnos]  WITH CHECK ADD  CONSTRAINT [FK_Turnos_Medicos1] FOREIGN KEY([LegajoMedico_Tr], [Especialidad])
+REFERENCES [dbo].[Medicos] ([LegajoMedico], [Especialidad_Me])
+GO
+ALTER TABLE [dbo].[Turnos] CHECK CONSTRAINT [FK_Turnos_Medicos1]
+GO
+ALTER TABLE [dbo].[Turnos]  WITH CHECK ADD  CONSTRAINT [FK_Turnos_Paciente] FOREIGN KEY([DniPaciente_Tr])
+REFERENCES [dbo].[Paciente] ([Dni_Pa])
+GO
+ALTER TABLE [dbo].[Turnos] CHECK CONSTRAINT [FK_Turnos_Paciente]
+GO
+/****** Object:  StoredProcedure [dbo].[spActualizarMedico]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[spActualizarMedico]
+    @Legajo_MED CHAR(4),
+    @Nombre_MED VARCHAR(20),
+    @Apellido_MED VARCHAR(20),
+    @Sexo_MED VARCHAR(20),
+    @DNI_MED CHAR(8),
+    @Nacionalidad_MED VARCHAR(20),
+   
+  
+ 
+    @CorreoElectronico_MED VARCHAR(20),
+    @Telefono_MED VARCHAR(20),
+  
+    @Lunes_MED BIT,
+    @Martes_MED BIT,
+    @Miercoles_MED BIT,
+    @Jueves_MED BIT,
+    @Viernes_MED BIT,
+    @Sabado_MED BIT,
+    @Domingo_MED BIT,
+    @HorarioEntrada_MED TIME(4),
+    @HorarioSalida_MED TIME(4),
+    @Estado_MED BIT
+AS
+BEGIN
+    -- Selecciona los datos actuales del mÃ©dico para verificaciÃ³n
+    SELECT 
+        LegajoMedico, 
+        Nombre_Me, 
+        Apellido_Me, 
+        Sexo_Me, 
+      
+      
+        Telefono_Me, 
+        HorarioApertura_Me, 
+        HorarioCierre_Me, 
+        Lunes_Me,
+        Martes_Me,
+        Miercoles_Me,
+        Jueves_Me,
+        Viernes_Me,
+        Sabado_Me,
+        Domingo_Me,
+        Estado_Me 
+    FROM 
+        Medicos 
+    WHERE 
+        LegajoMedico = @Legajo_MED;
+
+    -- Actualiza los datos del mÃ©dico en la tabla Medicos
+    UPDATE Medicos 
+    SET 
+        Nombre_Me = @Nombre_MED, 
+        Apellido_Me = @Apellido_MED, 
+        Sexo_Me = @Sexo_MED,
+
+        Telefono_Me = @Telefono_MED,
+        HorarioApertura_Me = @HorarioEntrada_MED,
+        HorarioCierre_Me = @HorarioSalida_MED,
+        Lunes_Me = @Lunes_MED,
+        Martes_Me = @Martes_MED,
+        Miercoles_Me = @Miercoles_MED, 
+        Jueves_Me = @Jueves_MED,
+        Viernes_Me = @Viernes_MED,
+        Sabado_Me = @Sabado_MED,
+        Domingo_Me = @Domingo_MED,
+        Estado_Me = @Estado_MED
+    WHERE 
+        LegajoMedico = @Legajo_MED;
+END
+
+GO
+/****** Object:  StoredProcedure [dbo].[spActualizarPaciente]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE   PROCEDURE [dbo].[spActualizarPaciente]
+@Nombre_PAC varchar(20),
+@Apellido_PAC varchar(20),
+@DNI_PAC char(8),
+@Sexo_PAC varchar(20),
+@Nacionalidad_PAC varchar(20),
+@FechaNacimiento_PAC date,
+@Email_PAC varchar(40),
+@Telefono_PAC varchar(11),
+@Estado_PAC bit
+
+AS
+BEGIN
+    update Paciente
+    set 
+    Nombre_Pa =@Nombre_PAC,
+    Apellido_Pa =@Apellido_PAC,
+    Sexo_Pa = @Sexo_PAC,
+    Nacionalidad_Pa = @Nacionalidad_PAC,
+    FechaNacimiento_Pa = @FechaNacimiento_PAC,
+    CorreoElectronico_Pa = @Email_PAC,
+    Telefono_Pa = @Telefono_PAC,
+    Estado_Pa = @Estado_PAC
+    where Dni_Pa = @DNI_PAC;
+end
+GO
+/****** Object:  StoredProcedure [dbo].[spActualizarTurno]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ CREATE PROCEDURE [dbo].[spActualizarTurno]
+    @IdTurno int,
+    @Descripcion text,
+    @asistencia bit 
+
+	
+AS
+
+
+BEGIN
+
+SELECT IdTurno, Descripcion, Asistencia FROM Turnos
+    UPDATE Turnos 
+    SET Descripcion = @Descripcion, Asistencia = @asistencia 
+    WHERE IdTurno= @IdTurno;
+END;
+
+GO
+/****** Object:  StoredProcedure [dbo].[spActualizarUsuario]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create Procedure [dbo].[spActualizarUsuario]
+@nombre varchar(20),@contraseña varchar (20), @legajo int
+as 
+begin
+UPDATE USUARIOS SET Nombre=@nombre,
+Contraseña=@contraseña
+where Legajo=@legajo
+end
+GO
+/****** Object:  StoredProcedure [dbo].[spAgregarMedico]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE   PROCEDURE [dbo].[spAgregarMedico]
+@Legajo_MED CHAR(4),
+@Nombre_MED VARCHAR(20),
+@Apellido_MED VARCHAR(20),
+@Sexo_MED VARCHAR(20),
+@DNI_MED char(8),
+@Nacionalidad_MED VARCHAR(20),
+@FechaNacimiento_MED DATE,
+@Direccion_MED VARCHAR(20),
+@Localidad_MED INT,
+@Provincia_MED INT,
+@CorreoElectronico_MED VARCHAR(20),
+@Telefono_MED VARCHAR(20),
+@Especialidad_MED INT,
+@Lunes_MED bit,
+@Martes_MED  bit,
+@Miercoles_MED  bit,
+@Jueves_MED  bit,
+@Viernes_MED  bit,
+@Sabado_MED  bit,
+@Domingo_MED  bit,
+@HorarioEntrada_MED TIME(4),
+@HorarioSalida_MED TIME(4),
+@Estado_MED BIT
+AS
+BEGIN
+    INSERT INTO Medicos
+    (
+        LegajoMedico,
+        Nombre_Me,
+        Apellido_Me,
+		Dni_Me,
+        Sexo_Me,
+        Nacionalidad_Me,
+        FechaNacimiento_Me,
+        Direccion_Me,
+        Localidad_Me,
+        Provincia_Me,
+        CorreoElectronico_Me,
+        Telefono_Me,
+        Especialidad_Me,
+        Lunes_Me,
+        Martes_Me,
+        Miercoles_Me,
+        Jueves_Me,
+        Viernes_Me,
+        Sabado_Me,
+        Domingo_Me,
+        HorarioApertura_Me,
+        HorarioCierre_Me,
+        Estado_Me
+    )
+    VALUES
+    (
+        @Legajo_MED,
+        @Nombre_MED,
+        @Apellido_MED,
+		@DNI_MED,
+        @Sexo_MED,
+        @Nacionalidad_MED,
+        @FechaNacimiento_MED,
+        @Direccion_MED,
+        @Localidad_MED,
+        @Provincia_MED,
+        @CorreoElectronico_MED,
+        @Telefono_MED,
+        @Especialidad_MED,
+        @Lunes_MED ,
+        @Martes_MED ,
+        @Miercoles_MED ,
+        @Jueves_MED ,
+        @Viernes_MED ,
+        @Sabado_MED ,
+        @Domingo_MED ,
+        @HorarioEntrada_MED,
+        @HorarioSalida_MED,
+        @Estado_MED
+    )
+END
+
+GO
+/****** Object:  StoredProcedure [dbo].[spAgregarPaciente]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[spAgregarPaciente]
+@Nombre_PAC varchar(20),
+@Apellido_PAC varchar(20),
+@DNI_PAC char(8),
+@Sexo_PAC varchar(20),
+@Nacionalidad_PAC varchar(20),
+@Localidad_PAC int,
+@Provincia_PAC int,
+@FechaNacimiento_PAC varchar(20),
+@Direccion_PAC varchar(20),
+@Email_PAC varchar(40),
+@Telefono_PAC varchar(11),
+@Estado_PAC bit
+
+as
+begin
+insert into Paciente(Nombre_Pa,Apellido_Pa,Dni_Pa,Sexo_Pa,Nacionalidad_Pa,Localidad_Pa,Provincia_Pa,FechaNacimiento_Pa,Direccion_Pa, CorreoElectronico_Pa,Telefono_Pa,Estado_Pa)
+Values (@Nombre_PAC,@Apellido_PAC,@DNI_PAC,@Sexo_PAC,@Nacionalidad_PAC,@Localidad_PAC,@Provincia_PAC,@FechaNacimiento_PAC,@Direccion_PAC,@Email_PAC,@Telefono_PAC,@Estado_PAC)
+end
+GO
+/****** Object:  StoredProcedure [dbo].[spAgregarTurno]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE proc [dbo].[spAgregarTurno]
+@DniPac_Tur char(8), @EspecialidadMed_Tur int, @LegajoMed_Tur char(4),  @Fecha_Tur date, @Horario_Tur time(4), @Asistencia_Tur bit
+as
+begin
+insert into Turnos
+(
+DniPaciente_Tr,
+Especialidad,
+LegajoMedico_Tr,
+Fecha,
+Horario,
+Asistencia
+)
+Values
+(
+@DniPac_Tur,
+@EspecialidadMed_Tur,
+@LegajoMed_Tur,
+@Fecha_Tur,
+@Horario_Tur,
+@Asistencia_Tur
+)
+end
+GO
+/****** Object:  StoredProcedure [dbo].[spAgregarUsuario]    Script Date: 17/05/2025 19:44:51 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create Procedure [dbo].[spAgregarUsuario]
+@Nombre varchar(20),
+@Contraseña varchar(20),
+@legajo char(4)
+as
+begin
+insert into Usuarios(Nombre,Contraseña,Legajo)
+values(@Nombre, @Contraseña, @legajo )
+end
+GO
+USE [master]
+GO
+ALTER DATABASE [Tp_Final_Grupo10] SET  READ_WRITE 
+GO
